@@ -3,7 +3,7 @@
 </div>
 <p align="center">Desenvolvendo aplicações completas e escaláveis com Java e Spring Boot</p>
 <div align="center">
-  <img src="https://app.rocketseat.com.br/_next/image?url=https://xesque.rocketseat.dev/platform/1701179150663.png&w=256&q=75" width="148px" height="148px">
+  <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="148px" height="148px">
   <img src="https://img.icons8.com/fluent/512/docker.png" width="128px" height="128px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" width="128px" height="128px">
   <img src="https://media.lordicon.com/icons/wired/gradient/1330-rest-api.svg" width="128px" height="128px">
