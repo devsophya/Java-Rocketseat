@@ -8,11 +8,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" width="128px" height="128px">
   <img src="https://media.lordicon.com/icons/wired/gradient/1330-rest-api.svg" width="128px" height="128px">
   <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="128px" height="128px">
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" width="118px" height="118px">
-  <img src="https://www.dtidigital.com.br/wp-content/uploads/2019/02/1_DeBhsZUhS7RPLwyd1-Ul8A.png" width="118px" height="118px">
-  <img src="https://img.icons8.com/fluent/512/prometheus-app.png" width="128px" height="128px">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-3628811-3030088.png" width="128px" height="128px">
-  <img src="https://static-00.iconduck.com/assets.00/file-type-maven-icon-1532x2048-ey28j8qf.png" width="128px" height="128px">
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_swagger_icon_130134.png" width="118px" height="118px">
 </div>
 
 <div>
